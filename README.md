@@ -1,1 +1,1 @@
-# portfolio
+A portfolio page is a web-based platform or section within a website where individuals, professionals, or businesses showcase their work, projects, achievements, skills, and experiences to potential clients, employers, or the general public.
